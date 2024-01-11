@@ -4,11 +4,11 @@
     box-sizing: border-box;
 }
 .container{
-    max-width: 250px;
+    max-width: 450px;
     margin: 0 auto;
 }
 .sub-container{
-    margin:50px auto;
+    margin:30px auto;
 }
 .container img{
     width: 100%;
